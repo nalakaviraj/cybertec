@@ -65,6 +65,7 @@
     <label for="previously_worked_company">Previously worked company *</label>
     <input type="text" class="form-control" id="previously_worked_company"  placeholder="Enter the company name that you have been worked at last...">
   </div>
+  
 
   <div class="form-group">
     <label for="job_title">Your job tittle *</label>
